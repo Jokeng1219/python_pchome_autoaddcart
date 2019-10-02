@@ -14,6 +14,3 @@ GoogleSheet格式：<br>
 正確Output：<br>
 ![image](https://github.com/Jokeng1219/python_pchome_autoaddcart/blob/master/img/addcart_output.png)<br>
 
-# 使用Selenium開啟瀏覽器及開始點擊產品
-判斷pchome商品是否還有數量去判斷<br>
-![image](https://github.com/Jokeng1219/python_pchome_autoaddcart/blob/master/img/addcart_output.png)
